@@ -60,11 +60,3 @@ celcius = ((weather[:temperature_farenheit] - 32.0) * 5/9)
 end 
   
 convert_temp(weather)  
-  
-  
-  
-  
-
-
-
-
